@@ -1,1 +1,1 @@
-Test for connecting db  	
+Test for connecting db
